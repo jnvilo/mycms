@@ -23,7 +23,7 @@ pathlib==1.0.1
 Pillow==7.2.0
 pycparser==2.20
 Pygments==2.6.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-creole==1.4.6
 python-dateutil==2.8.1
 python-social-auth==0.3.6
