@@ -1,5 +1,9 @@
 # MyCMS - Yet Another Django Based CMS. 
 
+**This is no longer maintained. I have moved on to using django-cms. Coincendentally the ideas
+I was putting in mycms happend to be the same design as the django-cms authors were implementing.**
+
+
 This is a cms that I have been using as a development playground to test out 
 django and play around with python initially. I have used it in production at 
 jnvilo.com for the last 5 years but it was never ready for public use and I 
